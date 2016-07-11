@@ -1,0 +1,8 @@
+.project
+.pydevproject
+*.pyc
+
+django_astoria.egg-info/
+tests/.coverage
+tests/local_settings.py
+
