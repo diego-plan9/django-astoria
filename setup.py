@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-astoria',
-    description='''Utilities for storing an retrieving an AST tree into/from a
+    description='''Utilities for storing and retrieving an AST tree into/from a
 Django database.''',
     version=__version__,
     author='Diego M. Rodríguez',
