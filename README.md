@@ -50,7 +50,7 @@ True
 
 ## Requirements
 * Django 1.8
-* django-lsapling
+* [django-lsapling](https://github.com/diego-plan9/django-lsapling)
 * PostgreSQL
 
 ## Known issues
